@@ -1,2 +1,1 @@
-[build]
-  publish = "."
+# Netlify config removed — site is deployed via GitHub Pages. (kept to preserve history)
